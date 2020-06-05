@@ -10,9 +10,10 @@ export default function Home() {
         <title>Olá, bem vindo</title>
       </Head>
       <section className={utilStyles.headingMd}>
+        <p>Olá, meu nome é Ítalo.</p>
         <p>
-          Olá, meu nome é Ítalo. Sou desenvolvedor com foco em Python. Falo
-          português e Inglês. Você pode me contactar no{" "}
+          Sou desenvolvedor com foco em Python. Falo português e Inglês. Você
+          pode me contactar no{" "}
           <a href="https://www.linkedin.com/in/italogustavoggsenna/">
             LinkedIn
           </a>
