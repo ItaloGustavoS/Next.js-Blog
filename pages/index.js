@@ -12,26 +12,26 @@ export default function Home({ allPostsData }) {
         <title>Olá, bem vindo</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Olá, meu nome é Ítalo.</p>
+        <p>Olá,</p>
         <p>
           Tenho 20 anos, sou estudante no curso de Análise e Desenvolvimento de
           Sistemas na Faculdade Pitágoras, falo Português e Inglês, buscando
           ampliar meus conhecimentos em programação e desenvolvimento de
-          sistemas, atualmente com foco em Python. Você pode me contactar no{" "}
-          <a href="https://www.linkedin.com/in/italogustavoggsenna/">
-            LinkedIn
-          </a>
-          .
+          sistemas, atualmente com foco em Python.{" "}
         </p>
         <p>
-          <a href="https://github.com/ItaloGustavoS">Github</a>
+          Você pode me contactar no{" "}
+          <a href="https://www.linkedin.com/in/italogustavoggsenna/">
+            LinkedIn{" "}
+          </a>
+          e ver meus projetos no
+          <a href="https://github.com/ItaloGustavoS"> Github</a>.
         </p>
         <h1>Projetos:</h1>
         <ul>
           <li>SãoStock</li>
           <li>Google Page</li>
           <li>MP4 To Gif Converter</li>
-          <p>Todos disponivéis no github.</p>
         </ul>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
