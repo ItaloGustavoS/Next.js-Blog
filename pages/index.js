@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Olá,</p>
         <p>
-          Tenho 20 anos, sou estudante no curso de Análise e Desenvolvimento de
+          Tenho 21 anos, sou estudante no curso de Análise e Desenvolvimento de
           Sistemas na Faculdade Pitágoras, falo Português e Inglês, buscando
           ampliar meus conhecimentos em programação e desenvolvimento de
           sistemas, atualmente com foco em Python.{" "}
