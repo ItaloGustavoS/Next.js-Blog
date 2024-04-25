@@ -10,10 +10,10 @@
   "dependencies": {
     "date-fns": "^2.14.0",
     "gray-matter": "^4.0.2",
-    "next": "9.3.5",
+    "next": "13.5.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "remark": "^12.0.0",
-    "remark-html": "^11.0.2"
+    "remark": "^15.0.1",
+    "remark-html": "^13.0.2"
   }
 }
